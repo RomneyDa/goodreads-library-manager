@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Book Id,Title,Author,Author l-f,Additional Authors,ISBN,ISBN13,My Rating,Average Rating,Publisher,Binding,Number of Pages,Year Published,Original Publication Year,Date Read,Date Added,Bookshelves,Bookshelves with positions,Exclusive Shelf,My Review,Spoiler,Private Notes,Read Count,Recommended For,Recommended By,Owned Copies,Original Purchase Date,Original Purchase Location,Condition,Condition Description,BCID
 29889285,Campaign Finance: What Everyone Needs to Know,Robert E Mutch,"Mutch, Robert E",,190274689,9.78019E+12,0,4.08,"Oxford University Press, USA",Paperback,240,2016,,,3/26/2020,to-read,to-read (#74),to-read,,,,0,,,0,,,,,
 31670227,A Whirlwind Tour of Python,Jake Vanderplas,"Vanderplas, Jake",,,9.78149E+12,0,4.24,O'Reilly,ebook,98,2016,,,3/20/2020,currently-reading,currently-reading (#12),currently-reading,,,,1,,,0,,,,,
@@ -18,3 +19,25 @@
 824972,"Search for the Dragon Ship (The Secrets Of Droon, #18)",Tony Abbott,"Abbott, Tony",,439420792,9.78044E+12,5,3.94,Scholastic Paperbacks,Paperback,128,2003,2003,1/1/2008,2/19/2020,,,read,,,,1,,,0,,,,,
 980548,"The Sleeping Giant of Goll (The Secrets of Droon, #6)",Tony Abbott,"Abbott, Tony",Tim Jessell,590108441,9.78059E+12,5,3.95,Scholastic,Paperback,112,2000,2000,1/1/2008,2/19/2020,,,read,,,,1,,,0,,,,,
 2049299,The Riddle Of Zorfendorf Castle (The Secrets Of Droon #25),Tony Abbott,"Abbott, Tony",,439671736,9.78044E+12,5,4,Scholastic,Paperback,128,2005,2005,1/1/2008,2/19/2020,,,read,,,,1,,,0,,,,,
+=======
+﻿Book Id,Title,Author,Author l-f,Additional Authors,ISBN,ISBN13,My Rating,Average Rating,Publisher,Binding,Number of Pages,Year Published,Original Publication Year,Date Read,Date Added,Bookshelves,Bookshelves with positions,Exclusive Shelf,My Review,Spoiler,Private Notes,Read Count,Recommended For,Recommended By,Owned Copies,Original Purchase Date,Original Purchase Location,Condition,Condition Description,BCID
+29889285,Campaign Finance: What Everyone Needs to Know,Robert E Mutch,"Mutch, Robert E",,190274689,9.78019E+12,0,4.08,"Oxford University Press, USA",Paperback,240,2016,,,3/26/2020,to-read,to-read (#74),to-read,,,,0,,,0,,,,,
+31670227,A Whirlwind Tour of Python,Jake Vanderplas,"Vanderplas, Jake",,,9.78149E+12,0,4.24,O'Reilly,ebook,98,2016,,,3/20/2020,currently-reading,currently-reading (#12),currently-reading,,,,1,,,0,,,,,
+31138556,Homo Deus: A History of Tomorrow,Yuval Noah Harari,"Harari, Yuval Noah",,,,5,4.26,Harper,Kindle Edition,450,2017,2017,3/12/2020,4/3/2019,,,read,,,,1,,,0,,,,,
+5040588,"The Magykal Papers (Septimus Heap, #7.5)",Angie Sage,"Sage, Angie",Mark Zug,61704164,9.78006E+12,0,3.96,Katherine Tegen Books,Hardcover,167,2009,2009,12/25/2009,2/26/2020,,,read,,,,1,,,0,,,,,
+7772,Dr. Seuss's Sleep Book,Dr. Seuss,"Seuss, Dr.",,394800915,9.78039E+12,0,4.17, New York: Random House,Hardcover,58,2012,1962,,2/21/2020,,,read,,,,1,,,0,,,,,
+19063,The Book Thief,Markus Zusak,"Zusak, Markus",,375831002,9.78038E+12,4,4.37,Alfred A. Knopf,Hardcover,552,2006,2005,1/1/2012,8/31/2018,,,read,,,,1,,,0,,,,,
+1617,Night  (The Night Trilogy #1),Elie Wiesel,"Wiesel, Elie","Marion Wiesel, FranÃ§ois Mauriac",,,0,4.33,Hill & Wang,Paperback,115,2006,1956,,2/20/2020,,,read,,,,1,,,0,,,,,
+480714,"Night of the Eye (Dragonlance: Defenders of Magic, #1)",Mary L. Kirchoff,"Kirchoff, Mary L.",,1560768401,9.78156E+12,0,3.78,Wizards of the Coast,Paperback,314,2005,1994,,2/20/2020,,,read,,,,1,,,0,,,,,
+500555,"Quest for the Queen (The Secrets of Droon, #10)",Tony Abbott,"Abbott, Tony","David Merrell, Tim Jessell",439207843,9.78044E+12,5,3.93,Scholastic Paperbacks,Paperback,112,2000,2000,1/1/2008,2/19/2020,,,read,,,,1,,,0,,,,,
+176326,The Problem Child,Michael Buckley,"Buckley, Michael",Peter Ferguson,810949148,9.78081E+12,4,4.28,Harry N. Abrams,Hardcover,320,2006,2006,1/1/2010,8/30/2018,,,read,,,,1,,,0,,,,,
+661661,"Flight of the Genie (The Secrets of Droon, #21)",Tony Abbott,"Abbott, Tony",David Merrell,439560438,9.78044E+12,5,3.94,Scholastic,Paperback,128,2004,2003,1/1/2008,2/19/2020,,,read,,,,1,,,0,,,,,
+315738,"Dream Thief (The Secrets of Droon, #17)",Tony Abbott,"Abbott, Tony",David Merrell,439420784,9.78044E+12,5,3.97,Scholastic Paperbacks,Paperback,128,2003,2003,1/1/2008,2/19/2020,,,read,,,,1,,,0,,,,,
+902750,"The Mask of Maliban (The Secrets of Droon, #13)",Tony Abbott,"Abbott, Tony",Tim Jessell,043930606X,9.78044E+12,5,3.92,Scholastic Paperbacks,Paperback,128,2001,2001,1/1/2008,2/19/2020,,,read,,,,1,,,0,,,,,
+1256165,"The Knights of Silversnow (The Secrets of Droon, #16)",Tony Abbott,"Abbott, Tony",,439306094,9.78044E+12,5,3.96,Scholastic Paperbacks,Paperback,128,2002,2002,1/1/2008,2/19/2020,,,read,,,,1,,,0,,,,,
+299798,"The Fortress of the Treasure Queen (The Secrets of Droon, #23)",Tony Abbott,"Abbott, Tony",David Merrell,439661579,9.78044E+12,5,3.97,Scholastic Inc.,Mass Market Paperback,128,2004,2004,1/1/2008,2/19/2020,,,read,,,,1,,,0,,,,,
+1202113,"Under the Serpent Sea (The Secrets of Droon, #12)",Tony Abbott,"Abbott, Tony",Tim Jessell,043920786X,9.78044E+12,5,3.92,Scholastic,Paperback,128,2001,2001,1/1/2008,2/19/2020,,,read,,,,1,,,0,,,,,
+824972,"Search for the Dragon Ship (The Secrets Of Droon, #18)",Tony Abbott,"Abbott, Tony",,439420792,9.78044E+12,5,3.94,Scholastic Paperbacks,Paperback,128,2003,2003,1/1/2008,2/19/2020,,,read,,,,1,,,0,,,,,
+980548,"The Sleeping Giant of Goll (The Secrets of Droon, #6)",Tony Abbott,"Abbott, Tony",Tim Jessell,590108441,9.78059E+12,5,3.95,Scholastic,Paperback,112,2000,2000,1/1/2008,2/19/2020,,,read,,,,1,,,0,,,,,
+2049299,The Riddle Of Zorfendorf Castle (The Secrets Of Droon #25),Tony Abbott,"Abbott, Tony",,439671736,9.78044E+12,5,4,Scholastic,Paperback,128,2005,2005,1/1/2008,2/19/2020,,,read,,,,1,,,0,,,,,
+>>>>>>> 863758138b84a6f949ff07d574df24c5fed820ad

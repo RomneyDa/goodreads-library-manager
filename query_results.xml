@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <GoodreadsResponse>
   <Request>
@@ -37,4 +38,45 @@
     </results>
 </search>
 
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[TNY6fDFILUDCTXZ739z56w]]></key>
+    <method><![CDATA[search_search]]></method>
+  </Request>
+  <search>
+  <query><![CDATA[GDodreade]]></query>
+    <results-start>1</results-start>
+    <results-end>1</results-end>
+    <total-results>1</total-results>
+    <source>Goodreads</source>
+    <query-time-seconds>0.06</query-time-seconds>
+    <results>
+        <work>
+  <id type="integer">43562945</id>
+  <books_count type="integer">1</books_count>
+  <ratings_count type="integer">1</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">30</original_publication_day>
+  <average_rating>1.00</average_rating>
+  <best_book type="Book">
+    <id type="integer">23959241</id>
+    <title>GoodReader: Wie ich mit GoodReader effektiver arbeite.</title>
+    <author>
+      <id type="integer">7413578</id>
+      <name>R. Schaffelhuber</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+    </results>
+</search>
+
+>>>>>>> 863758138b84a6f949ff07d574df24c5fed820ad
 </GoodreadsResponse>
