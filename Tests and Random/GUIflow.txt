@@ -1,0 +1,66 @@
+GUI FLOW:
+
+On startup, settings are checked
+If they exist and can be loaded from settings.json, they are.
+Otherwise, the default settings are loaded and saved to the settings file
+
+Then, users are checked.
+If none exist, CreateUser GUI pops up
+
+From the ManageUsers GUI:
+  Clicking on Back simply goes to the user info GUI
+  Clicking on Cancel closes the GUI with no effect
+  Clicking switch to this user switches the user and then checks for a database.
+      if the filename exists, it loads it up (after verifying titles exist)
+      and goes to the main GUI
+      if there is no database, it opens the Manage Database GUI
+  Clicking on Edit this User opens the EditUser GUI
+  Clicking on Create New User opens the CreateUser GUI
+  Clicking on Delete this user warns the user, and then removes that user from Settings
+  Clicking on Switch to this
+
+From the EditUser GUI:
+  All this GUI can does is allow the opportunity to edit the user the name/email/site info for the user that was in the combobox
+  Clicking Apply makes the changes and returns to the ManageUsers GUI
+  Clicking Cancel returns to the ManageUsers GUI with no changes
+
+From the CreateUser GUI:
+    If data is verified, then user is added to settings and set as current user,
+    and the ManageDatabase GUI is opened
+
+From ManageDatabase GUI:
+    Options to Replace/Add New DB from csv/sqlite will be available
+        will warn if db exists
+        pops up file dialog for opening file and then for saving db
+        creates new db object with filename input parameter
+        saves db filename to user settings
+    Options to Update DB from csv/sqlite will only be available if db exists
+        simply calls a method in DB object
+        opens file dialog
+        csv method opens csv, adds or ignores all fields with matching headers
+        sqlite method connects to db and adds or ignores all fields with matching headers
+        titles must exist for either
+    Option to export to csv will only be available if db exists
+        calls a method in DB object
+        opens file dialog for save file
+        pulls entire sqlite db and writes to csv
+    Back returns to MainGUI but not allowed unless db exists
+
+From UserInfo GUI:
+    Back returns to MainGUI but not allowed unless db exists
+    Manage Users simply opens the ManageUsers GUI
+    Link takes user to their goodreads page if it exists
+
+From the Main GUI:
+    Clicking on User opens the UserInfo GUI
+    Clicking on Manage Database simply opens the ManageDatabase GUI
+    Clicking on Settings opens the Settings GUI
+    Clicking on Quit terminates the program
+
+    Clicking on Add Book adds a frame to the top with Entry boxes for each shown field
+        Clicking add verifies the data and adds it to the db (and commits it)
+    Clicking on Search causes the search entry to appear and then accesses the db search functions
+
+
+    All settings in the settings GUI update instantly, so the only option is Back to the main GUI
+    (settings are saved by the user)
