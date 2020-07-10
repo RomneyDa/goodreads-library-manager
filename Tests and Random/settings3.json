@@ -1,1 +1,0 @@
-{"users": {"Fred": {"dbname": "fredbooks.sqlite"}, "John": {"dbname": "johnbooks.sqlite"}}, "last_user": "John", "show_fields": ["Title", "Author", "My Rating", "Date Read", "Date Added"]}
